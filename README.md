@@ -12,4 +12,4 @@ Encrypt and decrypt text with the AES cipher in CFB mode (PyCrypto).
 Encrypt and decrypt text with nested Blowfish(AES) ciphers in CFB mode (PyCrypto).
 
 ## /aes-eax
-Encrypt and decrypt text with AES cipher in EAX mode (PyCryptodome).
+Encrypt and decrypt text with the AES cipher in EAX mode (PyCryptodome).
